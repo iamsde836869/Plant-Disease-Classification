@@ -1,0 +1,9 @@
+{
+    "name": "plant_disease_detection",
+    "version": "1.0.0",
+    "dependencies": {
+        "@tensorflow/tfjs": "^2.6.0",
+        "@tensorflow/tfjs-node": "^2.6.0",
+        "express": "^4.17.1"
+    }
+}
